@@ -1,0 +1,127 @@
+﻿html {
+	background-color: lightgray;
+    background-size: cover;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 998px;
+	width: 80%;
+}
+
+body > h1, body > h2 {
+    font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, sans-serif;
+    font-weight: bold;
+}
+
+body > h1 {
+    color: #000000;
+    font-size: 75px;
+    margin-bottom: 0;
+    text-shadow: #FFFFFF 1px 1px, #FFFFFF 2px 2px, #FFFFFF 3px 3px;
+    transition: 0.3s ease-out;
+    transition-property: color, text-shadow;
+}
+
+body > h1:hover {
+    color: #FFFFFF;
+    text-shadow: #ff6a00 1px 1px, #ff6a00 2px 2px, #ff6a00 3px 3px, #ff6a00 4px 4px, #ff6a00 5px 5px, #ff6a00 6px 6px;
+}
+
+body > h2 {
+    color: #FFFFFF;
+    font-size: 30px;
+    margin-top: 0;
+    text-shadow: #000000 1px 1px, #000000 1px 1px, #000000 2px 2px;
+}
+
+body footer p {
+	font-family: 'Trebuchet MS';
+	font-size: 20px;
+}
+
+body > section > aside img {
+	float: right;
+	padding: 0 60px 0 0;
+	width: 30%;
+}
+
+#jumbotron-image {
+	max-width: 1000px;
+	width: 100%;
+}
+
+main {
+    background-color: #FF6A00;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #FFFFFF;
+    padding-bottom: 20px;
+}
+
+main aside {
+	padding: 20px;
+	text-align: center;
+}
+
+main aside img {
+	max-width: 184px;
+	width: 60%;
+}
+
+main h1, main p {
+    margin-left: 20px;
+    width: 90%;
+}
+
+main h1 {
+    border-bottom: 2px solid white;
+    font-family: Impact, Charcoal, sans-serif;
+	font-size: 24px;
+    padding-top: 20px;
+}
+
+main p, main ul, main h4, main h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main > section > section:last-of-type ul {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+main h4, main h5 {
+	word-wrap: break-word;
+}
+
+nav {
+	margin-bottom: 30px;
+}
+
+nav a {
+	color: #000000;
+	font-family: Trebuchet, verdana;
+	font-size: 24px;
+	padding: 0 65px 0 0;
+	text-decoration: none;
+	text-shadow: #ffffff 1px 1px, #FFFFFF 1px 1px, #FFFFFF 1px 1px, #FFFFFF 1px 1px;
+}
+
+nav a:hover {
+	color: #FF6A00;
+}
+
+@media(min-width: 710px)
+{
+	main {
+		display: flex;
+	}
+
+	main > section {
+		flex: 1 1 60%;
+	}
+
+	main aside {
+		align-self: center;
+		flex: 1 1 40%;
+	}
+}

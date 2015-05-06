@@ -1,0 +1,6 @@
+\\byu.local\byub\users\jlandon\Documents\Visual Studio 2013\My Exported Templates\ResumePage\bin\$safeprojectname$.dll.config
+\\byu.local\byub\users\jlandon\Documents\Visual Studio 2013\My Exported Templates\ResumePage\bin\$safeprojectname$.dll
+\\byu.local\byub\users\jlandon\Documents\Visual Studio 2013\My Exported Templates\ResumePage\bin\$safeprojectname$.pdb
+\\byu.local\byub\users\jlandon\Documents\Visual Studio 2013\My Exported Templates\ResumePage\obj\Debug\ResumePage.csprojResolveAssemblyReference.cache
+\\byu.local\byub\users\jlandon\Documents\Visual Studio 2013\My Exported Templates\ResumePage\obj\Debug\$safeprojectname$.dll
+\\byu.local\byub\users\jlandon\Documents\Visual Studio 2013\My Exported Templates\ResumePage\obj\Debug\$safeprojectname$.pdb

@@ -1,0 +1,74 @@
+﻿.container .header h1 {
+	color: #2e2e2e;
+	font-family: 'Oswald', sans-serif;
+	font-size: 141px !important;
+	font-weight: 700;
+	margin-top: 75px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.container .header p {
+	color: #00AEFF;
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+	text-align: center;
+}
+
+.container .portfolio h1 {
+	color: #FF8B00;
+	font-family: 'Oswald', sans-serif;
+	font-size: 141px !important;
+	font-weight: 700;
+	margin-top: 75px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.container .portfolio p {
+	color: #2e2e2e;
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+	text-align: center;
+}
+
+.file-downloads {
+	text-align: center;
+}
+
+.file-downloads a {
+	text-decoration: none;
+	color: #00AEFF;
+}
+
+.file-downloads a:hover {
+	color: #FF8B00;
+}
+
+.file-downloads h3 {
+	color: #2e2e2e;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	margin-top: 100px;
+	text-transform: uppercase;
+}
+
+footer {
+	margin-top: 50px;
+}
+
+#row-one {
+	text-align: center;
+	margin-top: 125px;
+}
+
+#row-two {
+	text-align: center;
+	margin-top: 125px;
+}
+
+#cp_widget_17cedc56-2449-4529-82cf-1f3800638640 {
+	margin: 50px auto 0 auto;
+}
